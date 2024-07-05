@@ -1,0 +1,23 @@
+Required to run the file 
+numpy==1.23.5
+streamlit==1.16.0
+matplotlib==3.6.3
+pandas==1.5.2
+scikit_learn==1.2.0
+seaborn==0.12.2
+xgboost==1.7.3
+
+apt instal python3-pip
+pip install scikit-learn==1.2.2
+pip install numpy
+pip install streamlit
+To check if the streamlit is installed or not
+ streamlit hello
+ OR
+python -m streamlit hello
+
+required file the pkl file
+
+To run the program query this
+python3 -m streamlit run ipl_score_predictor.py
+
